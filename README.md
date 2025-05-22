@@ -39,4 +39,4 @@ print("0x0.st online?", is_online)
 
 ## License
 
-MIT License © 2025 Ulus Vatansever
+MIT License © 2025
