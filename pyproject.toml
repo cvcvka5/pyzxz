@@ -1,0 +1,22 @@
+[project]
+name = "pyzxz"
+version = "0.1.0"
+description = "A Python client for 0x0.st file hosting service."
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [
+    { name = "cvcvka5", email = "cvcvka5@gmail.com" }
+]
+license = { file = "LICENSE" }
+dependencies = [
+    "requests"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
